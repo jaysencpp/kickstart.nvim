@@ -697,6 +697,10 @@ require('lazy').setup({
         html = {},
         cssls = {},
         eslint = {},
+        postgrestools = {},
+        jsonls = {
+          filetypes = { 'json', 'jsonc' },
+        },
         --
 
         lua_ls = {
