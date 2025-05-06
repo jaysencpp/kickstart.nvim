@@ -697,7 +697,7 @@ require('lazy').setup({
         html = {},
         cssls = {},
         eslint = {},
-        postgrestools = {},
+        -- postgrestools = {},
         jsonls = {
           filetypes = { 'json', 'jsonc' },
         },
