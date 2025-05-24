@@ -797,6 +797,8 @@ require('lazy').setup({
         typescriptreact = { 'prettierd', 'prettier', stop_after_first = true },
         typescriptrc = { 'prettierd', 'prettier', stop_after_first = true },
         astro = { 'prettier' },
+        typescript = { 'prettierd', 'prettier', stop_after_first = true },
+        json = { 'prettierd', 'prettier', stop_after_first = true },
       },
     },
   },
