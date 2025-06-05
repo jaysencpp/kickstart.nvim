@@ -700,6 +700,7 @@ require('lazy').setup({
           },
         },
         omnisharp = {},
+        bicep = {},
         tailwindcss = {},
         astro = {},
         html = {},
