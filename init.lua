@@ -710,6 +710,7 @@ require('lazy').setup({
         jsonls = {
           filetypes = { 'json', 'jsonc' },
         },
+        powershell_es = {},
         --
 
         lua_ls = {
