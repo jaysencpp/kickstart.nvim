@@ -711,6 +711,7 @@ require('lazy').setup({
           filetypes = { 'json', 'jsonc' },
         },
         powershell_es = {},
+        dockerls = {},
         --
 
         lua_ls = {
