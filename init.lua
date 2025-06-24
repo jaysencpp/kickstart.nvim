@@ -712,6 +712,7 @@ require('lazy').setup({
         },
         powershell_es = {},
         dockerls = {},
+        clangd = {},
         --
 
         lua_ls = {
