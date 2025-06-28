@@ -699,7 +699,11 @@ require('lazy').setup({
             'vue',
           },
         },
-        omnisharp = {},
+        omnisharp = {
+          formattingOptions = {
+            enableEditorConfigSupport = true,
+          },
+        },
         bicep = {},
         tailwindcss = {},
         astro = {},
